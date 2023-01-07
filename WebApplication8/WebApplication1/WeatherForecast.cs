@@ -15,4 +15,6 @@ public class WeatherForecast
     public string? NewProperty2 { get; set; }
 
     public string? NewProperty3 { get; set; }
+
+    public string? NewProperty4 { get; set; }
 }
